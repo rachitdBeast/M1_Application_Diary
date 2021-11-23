@@ -1,6 +1,6 @@
 # Requirements
 ## Introduction
-    It's a simple application which keeps record of personal data such as Name, date, time, place, duration and type of Note. 
+    It's a simple application which keeps record of personal data such as Name, date, time and type of Note. 
 
 ## Research
     It came as an idea to help others with remembering their daily life and with the help of coding we did our writing work to 

@@ -6,3 +6,6 @@ A simple project to maintain personal records
 
 # Linux OS Build
 [![Linux OS Build](https://github.com/rachitdBeast/M1_Application_Diary/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/rachitdBeast/M1_Application_Diary/actions/workflows/c-cpp.yml)
+
+# Windows OS Build
+[![Linux OS Build](https://github.com/rachitdBeast/M1_Application_Diary/actions/workflows/c-cpp_win.yml/badge.svg)](https://github.com/rachitdBeast/M1_Application_Diary/actions/workflows/c-cpp_win.yml)

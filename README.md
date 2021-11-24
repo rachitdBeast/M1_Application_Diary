@@ -10,7 +10,7 @@ A simple project to maintain personal records
 ## Windows OS Build
 [![Linux OS Build](https://github.com/rachitdBeast/M1_Application_Diary/actions/workflows/c-cpp_win.yml/badge.svg)](https://github.com/rachitdBeast/M1_Application_Diary/actions/workflows/c-cpp_win.yml)
 
-# Folder Structure :
+## Folder Structure
 
 Folder_Name      |  Description
 -----------------|--------------

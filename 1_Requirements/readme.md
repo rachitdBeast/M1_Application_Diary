@@ -25,7 +25,7 @@
     Threat
     1. As this is Open its susceptible to Hacks and Breach.
     
-## 4W's and 1H:
+## 4W's and 1H
     Who: For all Personal's in need of reminder.
     What: Maintains and remind people of their schedule.
     When: Whenever an idea strikes.
@@ -35,7 +35,6 @@
 ## Detail requirements
 
 High level requirements
-
 
 |**ID**|**Description**|**Category**|**Status**|
 | :-: | :-: | :-: | :-: |

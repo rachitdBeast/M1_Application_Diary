@@ -13,27 +13,12 @@
     its a simple C code with multifile structure.
 ## SWOT ANALYSIS
 
-# 4W&#39;s and 1&#39;H
-
-## Who:
-
-For all Personal's in need of reminder.
-
-## What:
-
-Maintains and remind people of their schedule.
-
-## When:
-
-Whenever an idea strikes.
-
-## Where:
-
-Either at office, home or On the GO!
-
-## How:
-
-Simple menu based interface which is easy to understand and write.
+## 4W's and 1H:
+ Who: For all Personal's in need of reminder.
+ What: Maintains and remind people of their schedule.
+ When: Whenever an idea strikes.
+ Where: Either at office, home or On the GO!
+ How: Simple menu based interface which is easy to understand and write.
 
 ## Detail requirements:
 

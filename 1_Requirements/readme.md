@@ -20,9 +20,9 @@
  Where: Either at office, home or On the GO!
  How: Simple menu based interface which is easy to understand and write.
 
-## Detail requirements:
+## Detail requirements
 
-High level requirements: 
+High level requirements
 
 
 |**ID**|**Description**|**Category**|**Status**|
@@ -32,7 +32,7 @@ High level requirements:
 |HR03|User shall be able to change and append their current record.|Technical|IMPLEMENTED|
 |HR04|User shall be able to maintain & check their own Records.|Technical|IMPLEMENTED|
 
-Low Level Requirements:
+Low Level Requirements
 
 |**ID**|**Description**|**HLR ID**|**Status (Implemented/Future)**|
 | :-: | :-: | :-: | :-: |

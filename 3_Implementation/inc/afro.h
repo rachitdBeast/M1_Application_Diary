@@ -21,7 +21,7 @@ FILE *fp;
     char note[2000], date[20] ;
     welcome_message();
     printf("Enter date of your note : ");
-    scanf("%15s", date);
+    scanf("%19s", date);
     //printf("%s",date);
     printf("\n");
     printf("Just write your note from here....\n---->>");

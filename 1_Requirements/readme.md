@@ -12,7 +12,19 @@
 ## Defining Our System
     its a simple C code with multifile structure.
 ## SWOT ANALYSIS
-
+    Strength
+    1. Very simple code and open source.
+    2. Features can be added based on requirements.
+    3. Easy Menu system enhanching the feel and layout to write.
+    Weakness
+    1. Unit testing is somewhat not possible as it just stores given data and presents it.
+    2. Powercuts or any glitch will cause data loss.
+    Opportunity
+    1. better coding skills will refine and shorten the code.
+    2. Much more room to actually add more features with better security and compatibility.
+    Threat
+    1. As this is Open its susceptible to Hacks and Breach.
+    
 ## 4W's and 1H:
     Who: For all Personal's in need of reminder.
     What: Maintains and remind people of their schedule.

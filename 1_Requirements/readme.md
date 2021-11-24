@@ -14,11 +14,11 @@
 ## SWOT ANALYSIS
 
 ## 4W's and 1H:
- Who: For all Personal's in need of reminder.
- What: Maintains and remind people of their schedule.
- When: Whenever an idea strikes.
- Where: Either at office, home or On the GO!
- How: Simple menu based interface which is easy to understand and write.
+    Who: For all Personal's in need of reminder.
+    What: Maintains and remind people of their schedule.
+    When: Whenever an idea strikes.
+    Where: Either at office, home or On the GO!
+    How: Simple menu based interface which is easy to understand and write.
 
 ## Detail requirements
 

@@ -14,7 +14,7 @@ A simple project to maintain personal records
 
 Folder_Name      |  Description
 -----------------|--------------
-1_Reuriments     |  Documents detailing requirements and research
+1_Requriments     |  Documents detailing requirements and research
 2_Design(Architecture)         |  Documents specifying design
 3_Implemenation  |  All codes and Documentation
 4_Testplan       |  Documents with test plans
